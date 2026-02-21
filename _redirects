@@ -1,1 +1,2 @@
-
+# Catch-all: serve homepage for any unknown path
+/* /index.html 200
